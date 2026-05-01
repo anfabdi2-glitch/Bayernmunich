@@ -1,0 +1,7 @@
+{
+  "name": "vercel-project",
+  "version": "1.0.0",
+  "description": "project of Vercel",
+  "private": true,
+  "license": "MIT"
+}
